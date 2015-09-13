@@ -1,0 +1,7 @@
+1) Реалізація паттерну Singleton:
+http://habrahabr.ru/post/27108/
+2) Внутрішні класи у Java:
+http://www.programmerinterview.com/index.php/java-questions/inner-vs-nested-classes/
+3) Коли і який тип внутрішнього класу використовувати:
+http://www.programmerinterview.com/index.php/java-questions/when-to-use-inner-classes-in-java/
+http://docs.oracle.com/javase/tutorial/java/javaOO/whentouse.html

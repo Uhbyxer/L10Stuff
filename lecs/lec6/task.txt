@@ -1,0 +1,36 @@
+Task
+
+1.
+
+Read recommended sources.
+
+2.
+
+Study hashmap in detail - how to redefine hashcode and equals, how the
+data storage works.
+
+Create console menu using enums.
+
+3.
+
+Create a container that encapsulates an array of String, and that only
+adds Strings and gets Strings, so that there are no casting issues during
+use. If the internal array isn’t big enough for the next add, your container
+should automatically resize it. In main( ), compare the performance of your
+container with an ArrayList holding Strings.
+
+4.
+
+Create a class containing two String objects and make it Comparable so
+that the comparison only cares about the first String. Fill an array and
+an ArrayList with objects of your class by using a custom generator (eg,
+which generates pairs of Country-Capital). Demonstrate that sorting works
+properly. Now make a Comparator that only cares about the second String
+and demonstrate that sorting works properly. Also perform a binary search
+using your Comparator.
+
+5.
+
+Ñreate a Deque class and test it.
+
+6.

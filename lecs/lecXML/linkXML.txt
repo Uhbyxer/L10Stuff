@@ -1,0 +1,10 @@
+http://blog.sanaulla.info/2013/05/23/parsing-xml-using-dom-sax-and-stax-parser-in-java/
+
+https://devutilsonline.com/xsd-xml/generate-xsd-from-xml
+
+
+http://examples.javacodegeeks.com/core-java/xml/bind/jaxb-marshal-example/
+
+http://www.way2tutorial.com/xml/converting_xml_to_html_using_xsl_transform.php
+
+http://stackoverflow.com/questions/19811581/how-to-convert-xml-to-html-using-xslt-in-java

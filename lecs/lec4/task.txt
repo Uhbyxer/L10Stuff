@@ -1,0 +1,12 @@
+Домашнє завдання на п'ятницю:
+- Хто ще не зробив - реалізувати консольне меню за допомогою паттерну "Команда".
+
+- Longest plateau. Given an array of integers, find the length and location of the longest contiguous sequence of equal values where the values of the elements just before and just after this sequence are smaller. 
+
+- Rumors. Alice is throwing a party with N other guests, including Bob. Bob starts a rumor about Alice by telling it to one of the other guests. A person hearing this rumor for the first time will immediately tell it to one other guest, chosen at random from all the people at the party except Alice and the person from whom they heard it. If a person (including Bob) hears the rumor for a second time, he or she will not propagate it further. Write a program to estimate the probability that everyone at the party (except Alice) will hear the rumor before it stops propagating. Also calculate an estimate of the expected number of people to hear the rumor. 
+
+- Minesweeper. Write a program Minesweeper.java that takes 3 command-line arguments M, N, and p and produces an M-by-N boolean array where each entry is occupied with probability p. In the minesweeper game, occupied cells represent bombs and empty cells represent safe cells. Print out the array using an asterisk for bombs and a period for safe cells. Then, replace each safe square with the number of neighboring bombs (above, below, left, right, or diagonal) and print out the solution. 
+  . . .         1 0 0
+. . . . .       3 3 2 0 0
+.  . . .       1  1 0 0
+Try to write your code so that you have as few special cases as possible to deal with, by using an (M+2)-by-(N+2) boolean array.

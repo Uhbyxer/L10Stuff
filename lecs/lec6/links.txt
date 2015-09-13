@@ -1,0 +1,12 @@
+Структури даних у картинках:
+http://habrahabr.ru/post/128269/
+http://habrahabr.ru/post/127864/
+http://habrahabr.ru/post/128017/
+http://habrahabr.ru/post/129037/
+
+Колекції:
+http://tutorials.jenkov.com/java-collections/index.html
+http://www.quizful.net/post/Java-Collections
+
+Енами:
+http://www.quizful.net/post/java_enums

@@ -1,0 +1,10 @@
+1) Робота Garbage Collection i розподіл пам'яті в JVM:
+- http://profyclub.ru/docs/305 - тут детально розглянуто
+- http://ggenikus.github.io/blog/2014/05/04/gc/ 
+- http://habrahabr.ru/post/112676/
+2) Розміри Java об'єктів:
+- http://habrahabr.ru/post/134102/
+
+Почитайте також коментарі до статей, там теж є багато корисного.
+[19:08:31] Oleksa Skorokhoda: Посилання на драйв:
+http://goo.gl/rMB5As

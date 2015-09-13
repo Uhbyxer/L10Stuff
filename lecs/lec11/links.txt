@@ -1,0 +1,15 @@
+Strings:
+- http://tutorials.jenkov.com/java/strings.html
+- http://www.tutorialspoint.com/java/java_strings.htm
+RegEx:
+- http://www.vogella.com/tutorials/JavaRegularExpressions/article.html
+- http://tutorials.jenkov.com/java-regex/index.html
+- http://www.mkyong.com/regular-expressions/10-java-regular-expression-examples-you-should-know/
+- http://docs.oracle.com/javase/tutorial/essential/regex/intro.html
+Internationalization:
+- http://tutorials.jenkov.com/java-internationalization/index.html
++ стаття про UTF, всім рекомендую ознайомитися
+http://www.joelonsoftware.com/articles/Unicode.html
+
+
+ https://regex101.com/

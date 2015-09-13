@@ -1,0 +1,11 @@
+Exceptions:
+- http://tutorials.jenkov.com/java-exception-handling/index.html
+За бажанням можете ознайомитися також з 
+- http://tutorials.jenkov.com/exception-handling-strategies/index.html
+
+Log4j
+- http://www.skipy.ru/useful/logging.html
+
+
+
+https://technicalmumbojumbo.wordpress.com/2013/02/15/back-to-basics-java-7-autocloseable-tutorial-overview/

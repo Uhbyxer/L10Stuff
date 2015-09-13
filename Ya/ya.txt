@@ -1,0 +1,23 @@
+http://localhost:8080/GuideMe/yaSuccess.do
+
+GuideMe
+
+E171345EEC1D034B546F101EA1B3E737C56902E9E976926EFCC7A127529ECC43
+
+
+
+https://github.com/yandex-money/yandex-money-sdk-java
+
+
+https://sp-money.yandex.ru/tunes.xml?w=inform
+
+
+client_id=E171345EEC1D034B546F101EA1B3E737C56902E9E976926EFCC7A127529ECC43
+notification_uri=http://localhost:8080/yamolib-sample/notification
+redirect_uri=http://localhost:8080/yamolib-sample/redirected.jsp
+notification_secret=1/UICmmnAUdr+oWoCKqXf2nj
+
+
+
+https://tech.yandex.ru/money/doc/dg/reference/obtain-access-token-docpage/
+[30.06.2015 22:13:28] Andriy Gavrilyk: https://github.com/melnikovdv/Java-Yandex.Money-API-SDK/tree/master/yamolib

@@ -1,0 +1,5 @@
+XML - http://www.w3schools.com/xml/default.asp
+XSD - http://www.w3schools.com/schema/default.asp
+Парсери - http://tutorials.jenkov.com/java-xml/index.html
+
+http://www.mkyong.com/java/jaxb-hello-world-example/

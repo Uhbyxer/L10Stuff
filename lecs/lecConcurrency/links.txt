@@ -1,0 +1,7 @@
+[18:19:33] Oleksa Skorokhoda: Корисні ресурси по багатопотоковості:
+1) http://www.vogella.com/tutorials/JavaConcurrency/article.html - quick start
+2) http://tutorials.jenkov.com/java-concurrency/index.html - більше теорії
+3) http://tutorials.jenkov.com/java-util-concurrent/index.html - бібліотека допоміжних засобів
+4) http://habrahabr.ru/post/108016/ - цікава інформація, зокрема, в коментарях
+5) http://docs.oracle.com/javase/tutorial/essential/concurrency/index.html - офіційний тьюторіал
++ в Еккеля англійською гарно все описано, особливо варто вернути увагу на практичні завдання

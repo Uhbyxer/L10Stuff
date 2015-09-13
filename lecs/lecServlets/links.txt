@@ -1,0 +1,14 @@
+http://www.codecademy.com/en/tracks/web
+
+http://frontendlabepam.github.io/FL3/html/html.html#1
+http://frontendlabepam.github.io/FL3/css-basics/css-basics.html#1
+http://frontendlabepam.github.io/FL3/forms/forms.html#1
+
+
+
+Домашнє завдання: Зробити веб-програму. На одній сторінці вводиться інформація про нового користувача - логін, пароль, ПІБ, стать (через вибір) тощо. Ця інформація відправляється на сервер і зберігається у БД. Є також інша сторінка, на якій у таблиці виводиться інформація про всіх зареєстрованих користувачів.
+Виводити інформацію викоритсовуючи jstl
+
+
+http://www.journaldev.com/1877/java-servlet-tutorial-with-examples-for-beginners 
++ знизу статті є ще кілька корисних посилань.
